@@ -1,0 +1,23 @@
+{
+  "products":[
+     {
+       "entityName":"HCL",
+       "price":"10.00",
+       "brokage": "0.1",
+      "quantity":"10",
+       "total": "150",
+       "starttime": "11:00",
+       "endttime": "12:00"
+     },
+     {
+      "entityName":"HCL",
+      "price":"20.00",
+      "brokage": "0.1",
+     "quantity":"10",
+      "total": "250",
+      "starttime": "01:00",
+       "endttime": "02:00"
+     }
+    
+  ]
+}
